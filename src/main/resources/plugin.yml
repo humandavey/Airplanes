@@ -1,0 +1,5 @@
+main: me.relend.airplanes.Airplanes
+name: Airplanes
+version: 1.0.0
+api-version: 1.19
+author: Relend

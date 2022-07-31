@@ -1,0 +1,21 @@
+#---------------------#
+# Airplanes by Relend #
+#---------------------#
+
+prefix: "[PLANES]"
+
+planes:
+  testPlane: # planeID
+    name: "The Test Plane"
+    lore:
+      - "this is a test"
+      - "test plane"
+    model-data: 1
+    top-speed: 250
+    stall-speed: 40
+    storage-slots: 15
+    fuel-slots: 3
+
+players:
+  18277c8a-b2e2-4463-80a7-6ee5ba004a94:
+    callsign: "N122XX"
